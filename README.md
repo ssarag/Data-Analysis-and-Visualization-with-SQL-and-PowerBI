@@ -1,6 +1,6 @@
 # Data-Analysis-and-Visualization-with-SQL-and-PowerBI
 
-# # Sleep Health and Lifestyle Dataset Analysis
+#  Sleep Health and Lifestyle Dataset Analysis
 
 This repository contains the code and analysis for exploring a sleep health and lifestyle dataset. The dataset contains various attributes related to individuals' sleep habits, lifestyle factors, and health conditions. The data analysis is performed using SQL queries and data visualizations are created using Power BI.
 
