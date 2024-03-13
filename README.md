@@ -38,10 +38,12 @@ Description: The dataset comprises information on sleep duration, quality of sle
 
 
 5. correlation between sleep duration and heart rate.
+
+   
    ![image](https://github.com/ssarag/Data-Analysis-and-Visualization-with-SQL-and-PowerBI/assets/103538049/f34fa63a-84a3-41f9-9f75-53e309dcddbc)
 
 
-6. the likelihood of an individual having a sleep disorder based on their occupation, stress level
+7. the likelihood of an individual having a sleep disorder based on their occupation, stress level
 
    ![image](https://github.com/ssarag/Data-Analysis-and-Visualization-with-SQL-and-PowerBI/assets/103538049/43c8fb72-289a-4e73-8e9d-8d7ff11a1af5)
 
