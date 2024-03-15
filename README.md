@@ -57,6 +57,11 @@ Description: The dataset comprises information on sleep duration, quality of sle
 
 
 # Files
-** Since web embedding is restricted in the free Power BI account, a downloadable PDF of the interactive dashboard has been provided. To explore the full interactivity, kindly download the file and view it within Power BI.
+1. SQL queries and results: Sleep_Health_and_lifestyle_dataAnalysis.sql  and Data Analysis with SQL.pdf
+2. PowerBI visualization: health_data_analysis.pdf
+3. PowerBI interactive dashboard: health.pbit
+
+   
+** Since web embedding is restricted in the free Power BI account, a downloadable PDF of the interactive dashboard has been provided. To explore the full interactivity, kindly download the health.pbit and view it within Power BI.
 
 
