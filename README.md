@@ -51,3 +51,12 @@ Description: The dataset comprises information on sleep duration, quality of sle
 
 
 
+# Overview of PowerBI Data Visualization
+
+![image](https://github.com/ssarag/Data-Analysis-and-Visualization-with-SQL-and-PowerBI/assets/103538049/dfaf54da-31da-4a19-a33d-84c408b613b9)
+
+
+# Files
+** Since web embedding is restricted in the free Power BI account, a downloadable PDF of the interactive dashboard has been provided. To explore the full interactivity, kindly download the file and view it within Power BI.
+
+
